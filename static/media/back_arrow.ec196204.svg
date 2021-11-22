@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Recipes-Detail" transform="translate(-206.000000, -288.000000)" fill="#009CDE">
+            <path d="M213.295,288.705 L213.295,288.705 C212.905537,289.094463 212.905255,289.72582 213.294369,290.115631 L218.17,295 L207,295 C206.447715,295 206,295.447715 206,296 L206,296 C206,296.552285 206.447715,297 207,297 L218.17,297 L213.294369,301.884369 C212.905255,302.27418 212.905537,302.905537 213.295,303.295 L213.295,303.295 C213.684361,303.684361 214.315639,303.684361 214.705,303.295 L222,296 L214.705,288.705 C214.315639,288.315639 213.684361,288.315639 213.295,288.705 Z" id="Mask" transform="translate(214.000000, 296.000000) scale(-1, 1) translate(-214.000000, -296.000000) "></path>
+        </g>
+    </g>
+</svg>
